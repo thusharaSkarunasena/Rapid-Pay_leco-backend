@@ -10,7 +10,7 @@ API is hosted to 'Heroku' & API endpoints are not secured.
 * PostgreSQL
 
 ## API Demo Url
-[https://rapidpay-leco.herokuapp.com/](https://rapidpay-leco.herokuapp.com/)
+[https://rapidpay-leco.herokuapp.com](https://rapidpay-leco.herokuapp.com/)
 	
 ## API Endpoints
 	/leco_user/getAllLecoUsers
